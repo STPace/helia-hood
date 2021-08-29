@@ -47,7 +47,7 @@ module.exports = {
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/STPace/helia_hood/edit/main/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
