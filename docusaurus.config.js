@@ -3,25 +3,25 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'HELIA_HOOD',
+  title: 'HALIL_HOOD',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://halil-hood.vercel.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'STPace', // Usually your GitHub org/user name.
-  projectName: 'helia_hood', // Usually your repo name.
+  organizationName: 'halil-pan', // Usually your GitHub org/user name.
+  projectName: 'halil_hood', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'HELIA_HOOD',
+      title: 'HALIL_HOOD',
       // logo: {
       //   alt: 'My Site Logo',
       //   src: 'img/logo.svg',
       // },
       items: [
         {
-          href: 'https://github.com/STPace/helia_hood',
+          href: 'https://github.com/halil-pan/halil_hood',
           label: 'GitHub',
           position: 'right',
         },
@@ -47,7 +47,7 @@ module.exports = {
           routeBasePath: '/',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/STPace/helia_hood/edit/main/',
+            'https://github.com/halil-pan/halil_hood/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
