@@ -1,8 +1,8 @@
 ---
 slug: welcome
 title: Welcome
-authors: [helia]
+authors: [halil]
 tags: [hello]
 ---
 
-Welcome to helia hood.
+Welcome to halil hood.
